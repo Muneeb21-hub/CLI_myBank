@@ -45,6 +45,7 @@ The program includes basic error handling to catch exceptions and display meanin
 ## Dependencies
 
 inquirer: Used for user input and interaction.
+
 fs: Used for file system operations.
 
 ## Contributing
